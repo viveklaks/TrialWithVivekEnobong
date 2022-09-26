@@ -1,3 +1,18 @@
 header {
     position : fixed;
+   
+}
+
+#header-image{
+
+width:5px;
+height:5px;
+}
+
+
+@media(max-width:500px){
+
+}
+body{
+    flex-wrap:wrap
 }
